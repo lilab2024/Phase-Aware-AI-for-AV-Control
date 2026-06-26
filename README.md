@@ -1,5 +1,6 @@
 # Phase-Aware AI for Autonomous Vehicle Control
-This repository contains the source code for the paper **"Phase-Aware AI for Socially Compliant Autonomous Vehicle Control"** (under submission, IEEE Transactions, 2025). The code implements the Phase-Aware AI (PAAI) model integrated with car-following (CF) models, specifically Optimized Velocity Relative Velocity (OVRV) and Intelligent Driver Model (IDM), to enhance autonomous vehicle (AV) control. It includes scripts for model training, evaluation, and generating metrics such as RMSE and jerk statistics, as presented in the paper.
+This repository contains the source code for the paper **"Phase-Aware AI for Electric Vehicles with
+Adaptive Cruise Control"**. The code implements the Phase-Aware AI (PAAI) model integrated with car-following (CF) models, specifically Optimized Velocity Relative Velocity (OVRV) and Intelligent Driver Model (IDM), to enhance autonomous vehicle (AV) control. It includes scripts for model training, evaluation, and generating metrics such as RMSE and jerk statistics, as presented in the paper.
 
 ## Paper Overview
 The paper proposes the PAAI model, which enhances traditional CF models by incorporating phase-aware attention mechanisms to improve AV responsiveness and safety. Key contributions include:
